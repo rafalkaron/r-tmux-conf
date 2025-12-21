@@ -2,7 +2,7 @@
 
 Minimalistic tmux configuration that does not go into your way.
 
-<img width="1636" height="962" alt="r-tmux-conf" src="https://github.com/user-attachments/assets/771a55e5-dcb3-4756-833f-95284503ec07" />
+<img width="960" height="540" alt="r-tmux-conf" src="https://github.com/user-attachments/assets/059771ca-174d-488b-9c99-12a02e41d642" />
 
 ## Style
 
